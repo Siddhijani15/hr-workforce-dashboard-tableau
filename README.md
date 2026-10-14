@@ -5,8 +5,6 @@ An interactive Tableau Public dashboard that answers 12 workforce questions for 
 🔗 **Live dashboard:** https://public.tableau.com/app/profile/siddhi.jani6174/viz/HRworkspacedashboard/HRDashboard
 
 
-![Dashboard screenshot](images/dashboard.png)
-
 ---
 
 ## Questions answered
