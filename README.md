@@ -2,7 +2,8 @@
 
 An interactive Tableau Public dashboard that answers 12 workforce questions for **XYZ Corporation** (22,211 employees, 2000–2020): hiring, attrition, location, tenure, organisation structure and diversity.
 
-🔗 **Live dashboard:** [View on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+🔗 **Live dashboard:** https://public.tableau.com/app/profile/siddhi.jani6174/viz/HRworkspacedashboard/HRDashboard
+
 
 ![Dashboard screenshot](images/dashboard.png)
 
